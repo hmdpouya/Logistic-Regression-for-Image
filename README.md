@@ -6,4 +6,4 @@ A step-by-step implementation for logistic regression
 - Illustrating forward and backward propagation.
 - Analyzing the effect of learning rate.
 
-##Note that it maight suffer from overfitting!##
+## Note that it maight suffer from overfitting! ##
