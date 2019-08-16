@@ -1,6 +1,6 @@
 # Logistic-Regression-for-Image
 
-A step-by-step logistic regression implementation for classifying cat vs non-cat images.
+A step-by-step logistic regression implementation in Python for classifying cat vs non-cat images.
 
 - All weights are initialized to zero.
 - Avoiding loops as much as possible by using NUMPY.
